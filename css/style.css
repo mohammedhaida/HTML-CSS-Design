@@ -302,6 +302,7 @@ html {
     width: 300px;
     height: 300px;
     position: relative;
+    background-color: #7b8a8f;
 }
 @media (max-width:991px){
     .about .about-content .image{
@@ -335,9 +336,7 @@ html {
         display: none;
     }
 }
-.about .about-content .image img{
-    max-width: 100%;
-}
+
 .about .about-content .text{
     flex-basis: calc(100% - 500px);
 
